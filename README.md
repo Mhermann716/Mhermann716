@@ -1,29 +1,34 @@
 # Hello, I'm Michael
 <a href="https://www.linkedin.com/in/michael-hermann-cs"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Currently immersed in the Google Cybersecurity Professional Certificate program, I am diligently honing my expertise in critical technical domains including network security, cryptography, penetration testing, and incident response. Driven by an unyielding passion for cybersecurity, my mission is to safeguard digital assets and combat evolving cyber threats within today's dynamic digital landscape.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My professional trajectory is marked by a diverse array of experiences, notably including positions as a Sales Manager at AT&T and as Director of Communications at Keller Williams Realty. Through these roles, I have cultivated invaluable skills in strategic thinking, problem-solving, and effective communication, underscored by a relentless commitment to self-improvement. Notable achievements encompass navigating intricate negotiations to secure pivotal contracts and spearheading communication initiatives that fostered seamless collaboration across departments.
+
+As I embark on my transition into the cybersecurity arena, I am enthusiastic about fusing my technical proficiency with my repertoire of transferable skills to effectuate meaningful change. Anchored in a bedrock of strategic acumen, problem-solving prowess, and polished communication, I stand ready to excel in roles that demand agility, innovation, and a proactive stance against cybersecurity threats.
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| TryHackMe Journal          | <a href="https://google.com">Detection Lab</a>|
+| Security Audits | <a href="https://google.com">Detection Lab</a>|
+| SQL Query         | Coming Soon|
+| Security Incident Report       | Coming Soon|
+| Vulnerable Systems Analysis                  | Coming Soon|
+| Incident Handler's Journal | Coming Soon|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Operating Systems
+div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
 ### Network
 <div>
