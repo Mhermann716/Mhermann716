@@ -5,7 +5,7 @@ Currently immersed in the Google Cybersecurity Professional Certificate program,
 
 My professional trajectory is marked by a diverse array of experiences, notably including positions as a Sales Manager at AT&T and as Director of Communications at Keller Williams Realty. Through these roles, I have cultivated invaluable skills in strategic thinking, problem-solving, and effective communication, underscored by a relentless commitment to self-improvement. Notable achievements encompass navigating intricate negotiations to secure pivotal contracts and spearheading communication initiatives that fostered seamless collaboration across departments.
 
-As I embark on my transition into the cybersecurity arena, I am enthusiastic about fusing my technical proficiency with my repertoire of transferable skills to effectuate meaningful change. Anchored in a bedrock of strategic acumen, problem-solving prowess, and polished communication, I stand ready to excel in roles that demand agility, innovation, and a proactive stance against cybersecurity threats.
+As I embark on my transition into cybersecurity, I am enthusiastic about fusing my technical proficiency with my repertoire of transferable skills to effectuate meaningful change. Anchored in a bedrock of strategic acumen, problem-solving prowess, and polished communication, I stand ready to excel in roles that demand agility, innovation, and a proactive stance against cybersecurity threats.
 
 
 ## Objective
