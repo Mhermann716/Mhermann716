@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Audits | <a href="https://github.com/Mhermann716/Security-Audit/blob/main/README.md">Security Audits</a>|
 | SQL Query         | <a href="https://github.com/Mhermann716/SQL-Querys">SQL Queries</a>|
 | Cyber Incident Report       | <a href="https://github.com/Mhermann716/Cyber-Incident-Report">Cyber Incident Report</a>|
-| Vulnerable Systems Analysis                  | <a href="https://github.com/Mhermann716/Vulnerable-System-Analysis">Cyber Incident Report</a>|
+| Vulnerable Systems Analysis                  | <a href="https://github.com/Mhermann716/Vulnerable-System-Analysis">Vulnerable Systems Analysis</a>|
 | Incident Handler's Journal | Coming Soon|
 
 ### Operating Systems
