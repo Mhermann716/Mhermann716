@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/michael-hermann-cs"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/1jFHG43h7qYRfFlYjHQgBEeMbzNUBSVr1Cn9P2ZJSglQ/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
 
-Currently immersed in the Google Cybersecurity Professional Certificate program, I am diligently expanding my expertise in critical technical domains including network security, cryptography, penetration testing, and incident response. Driven by an unyielding passion for cybersecurity, my mission is to safeguard digital assets and combat evolving cyber threats within today's dynamic digital world.
+Recently completed the Google Cybersecurity Professional Certificate program, I have diligently expanded my expertise in critical technical domains including network security, cryptography, penetration testing, and incident response. Driven by an unyielding passion for cybersecurity, my mission is to safeguard digital assets and combat evolving cyber threats within today's dynamic digital world.
 
 My professional trajectory is a diverse array of experiences, notably including positions as a Sales Manager at AT&T and as Director of Communications at Keller Williams Realty. Through these roles, I have cultivated invaluable skills in strategic thinking, problem-solving, and effective communication, underscored by a relentless commitment to self-improvement. Notable achievements encompass navigating intricate negotiations to secure pivotal contracts and spearheading communication initiatives that fostered seamless collaboration across departments.
 
