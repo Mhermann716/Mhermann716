@@ -63,3 +63,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Cyber Incident Reports
 - Incident Handler's Report
 - Vulnerable Systems Analysis
+
+
+<img src="https://api.certopus.com/v1/obi/generate_baked_badge/834193a0a1df4a629cec95aefbb4aa94" alt="">
+</a>
